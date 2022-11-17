@@ -1,0 +1,28 @@
+{
+  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "window.zoomLevel": 1,
+  "window.menuBarVisibility": "toggle",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
+  "breadcrumbs.enabled": false,
+  "editor.renderWhitespace": "all",
+  "editor.cursorStyle": "block",
+  "editor.cursorBlinking": "phase",
+  "editor.fontFamily": "'JetBrainsMono Nerd Font Mono 14'",
+  "workbench.statusBar.visible": false,
+  "editor.fontWeight": "bold",
+  "editor.fontSize": 15,
+  "window.newWindowDimensions": "fullscreen",
+  "editor.autoClosingQuotes": "always",
+  "editor.autoClosingBrackets": "always",
+  "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font Mono 14'",
+  "terminal.integrated.fontWeight": "bold",
+  "workbench.activityBar.visible": false,
+  "editor.codeActionsOnSave": {}
+}

@@ -1,0 +1,14 @@
+# This is Git's per-user configuration file.
+[user]
+  name = Rubén Acevedo
+  email = rubenfsolorzano@hotmail.com
+
+[alias]
+  l=!git log
+  s=!git status
+  a=!git add .
+  c=!git commit -m
+  ac=!git add . && git commit -m
+# Please adapt and uncomment the following lines:
+#	name = Rubén
+#	email = ruben@rubenpc.(none)
