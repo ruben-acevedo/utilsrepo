@@ -4,7 +4,7 @@
   email = rubenfsolorzano@hotmail.com
 
 [alias]
-  l=!git log
+  l=!git log --pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'
   s=!git status
   a=!git add .
   c=!git commit -m
@@ -12,3 +12,5 @@
 # Please adapt and uncomment the following lines:
 #	name = Rubén
 #	email = ruben@rubenpc.(none)
+[core]
+	editor = code --wait
