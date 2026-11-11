@@ -1,0 +1,21 @@
+Título = # Título Principal (H1)
+         ## Subtítulo (H2)
+         ### Seção (H3)
+negrito = **negrito**
+italico = *itálico*
+riscado = ~~riscado~~
+sublinhado = <u>sublinhada</u>
+coloca bolinha fechada na frente  * Item um
+                                    * subitem (segue com bolinha aberta)
+coloca bolinha aberta na frente = - Item um
+                           - Item dois
+                             - Subitem do dois
+coloca o site = Visite o [GitHub](https://github.com)
+fazer uma tabela = | Ferramenta | Uso |
+                   | :--- | :---: |
+                   | Python | Backend |
+                   | Power BI | Dados |
+citações ou avisos = > **Aviso:** Certifique-se de salvar o arquivo antes de fechar.
+criar uma checklist = - [x] Criar estrutura do menu
+                      - [ ] Adicionar banco de dados
+win + . = abre os emotion, assim como [!NOTE], [!WARNING], [!TIP], [!IMPORTANT], [!CAUTION]
